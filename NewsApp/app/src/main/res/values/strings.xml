@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="nc">NO CONNECTION...PLEASE CHECK UR CONNECTION</string>
+    <string name="em">EMPTY </string>
+</resources>
